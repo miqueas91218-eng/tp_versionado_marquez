@@ -1,3 +1,3 @@
-# TP Versionado
+# cantinapadel
 Autor: Miqueas Marquez
-Descripción: Proyecto para simular la evolución de un sistema con Git.
+Descripción: Sistema de gestión para cantina y reserva de turnos de pádel.
